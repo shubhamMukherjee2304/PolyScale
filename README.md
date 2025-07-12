@@ -64,7 +64,7 @@ Each core domain—**Accounts**, **Products**, and **Orders**—is implemented a
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/polyscale.git
+git clone https://github.com/shubhamMukherjee2304/polyscale.git
 cd polyscale
 ```
 
@@ -137,5 +137,5 @@ Delivered a **scalable** backend architecture capable of handling:
 ## 🧑‍💻 Author
 
 **Shubham Mukherjee**
-[LinkedIn](https://www.linkedin.com/in/shubham-mukherjee-a851a420a) | [GitHub](https://github.com/shubhammukherjee1000)
+[LinkedIn](https://www.linkedin.com/in/shubham-mukherjee-a851a420a) | [GitHub](https://github.com/shubhamMukherjee2304)
 
