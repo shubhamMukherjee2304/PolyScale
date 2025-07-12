@@ -8,7 +8,7 @@
 
 Each core domain—**Accounts**, **Products**, and **Orders**—is implemented as an independent service, enabling clean separation of concerns, easier maintenance, and horizontal scalability.
 
----
+
 
 ## 🔧 Tech Stack
 
@@ -19,7 +19,7 @@ Each core domain—**Accounts**, **Products**, and **Orders**—is implemented a
 * **Elasticsearch** – Fast, flexible search in the Product service
 * **Docker** – Containerized services for consistent deployment
 
----
+
 
 ## 🧱 Microservice Architecture
 
@@ -41,7 +41,7 @@ Each core domain—**Accounts**, **Products**, and **Orders**—is implemented a
 * Ensures data integrity with PostgreSQL
 * Maintains consistent communication with the account and product services via gRPC
 
----
+
 
 ## 🚀 Features
 
@@ -51,7 +51,6 @@ Each core domain—**Accounts**, **Products**, and **Orders**—is implemented a
 * 🔹 **Modular Microservices**: Independently deployable services for better scalability
 * 🔹 **Dockerized Deployment**: Consistent local and production environments
 
----
 
 ## 📦 Getting Started
 
@@ -77,7 +76,7 @@ docker-compose up --build
 
 > This will spin up the microservices, GraphQL gateway, PostgreSQL, and Elasticsearch containers.
 
----
+
 
 ## 🧪 API Endpoints
 
@@ -98,7 +97,7 @@ query {
 }
 ```
 
----
+
 
 ## 📁 Directory Structure
 
@@ -114,7 +113,7 @@ query {
 └── README.md
 ```
 
----
+
 
 ## ✅ Future Improvements
 
@@ -123,7 +122,7 @@ query {
 * CI/CD integration
 * Kubernetes-based deployment
 
----
+
 
 ## 📌 Impact
 
@@ -133,13 +132,10 @@ Delivered a **scalable** backend architecture capable of handling:
 * Rapid, customizable product searches
 * Reliable and consistent user and order workflows
 
----
+
 
 ## 🧑‍💻 Author
 
 **Shubham Mukherjee**
 [LinkedIn](https://www.linkedin.com/in/shubham-mukherjee-a851a420a) | [GitHub](https://github.com/shubhammukherjee1000)
 
----
-
-Let me know if you’d like to include setup scripts, diagrams, API documentation (e.g. with Postman/OpenAPI), or Kubernetes configs!
